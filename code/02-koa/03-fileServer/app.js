@@ -4,8 +4,6 @@ const app = module.exports = new Koa();
 const path = require('path');
 const extname = path.extname;
 
-// try GET /app.js
-
 app.use(async function(ctx) {
   const fpath = path.join(__dirname, ctx.path);
   const fstat = await fs.promises.stat(fpath);

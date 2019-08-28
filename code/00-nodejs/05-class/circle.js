@@ -10,4 +10,4 @@ class Circle {
 
 let c2 = new Circle(2)
 
-console.log('c2.area=', c2.area())
+console.log('c2.area()=', c2.area())
