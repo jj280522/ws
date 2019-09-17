@@ -1,4 +1,4 @@
-const mount = require('./node_modules/koa-mount');
+const mount = require('koa-mount');
 const Koa = require('koa');
 
 // hello
