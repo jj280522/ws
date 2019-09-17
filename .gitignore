@@ -1,6 +1,8 @@
 # windows
 *.exe
 
+bak
+
 db
 
 # linux
