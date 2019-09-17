@@ -93,10 +93,12 @@ ES6 裏添加了類別 class，箭頭函式，Generator 等等技術。
   * https://es6.ruanyifeng.com/#docs/destructuring
 * 箭頭函數 -- 04-arrow
   * https://es6.ruanyifeng.com/#docs/function#%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0
-* 同步語法 (async/await) -- 05-await
+* 類別語法 (class) -- 05-class
   * https://es6.ruanyifeng.com/#docs/async
-* 模板字符串 -- 07-await
+* 同步語法 (async/await) -- 06-await
+  * https://es6.ruanyifeng.com/#docs/async
+* 模板字符串 -- 07-template
   * https://pjchender.blogspot.com/2017/01/javascript-es6-template-literalstagged.html
   * https://wcc723.github.io/javascript/2017/12/22/javascript-template-string/
 
-* 箭頭函式
+在 00-nodejs 的程式範例中，主要就是要學習這些新語法！
